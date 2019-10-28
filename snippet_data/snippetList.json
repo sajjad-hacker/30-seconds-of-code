@@ -5585,6 +5585,10 @@
   "meta": {
     "specification": "http://jsonapi.org/format/",
     "type": "snippetListingArray",
-    "scope": "./snippets"
+    "scope": "./snippets",
+    "language": {
+      "short": "js",
+      "long": "JavaScript"
+    }
   }
 }

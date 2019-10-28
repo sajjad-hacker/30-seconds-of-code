@@ -7703,6 +7703,10 @@
   "meta": {
     "specification": "http://jsonapi.org/format/",
     "type": "snippetArray",
-    "scope": "./snippets"
+    "scope": "./snippets",
+    "language": {
+      "short": "js",
+      "long": "JavaScript"
+    }
   }
 }
